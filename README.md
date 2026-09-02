@@ -25,9 +25,9 @@ Git & GitHub
 Team Members
 Rawat, Karan (Team Lead) - 2510011568
 Goyal, Vansh - 2510012521
-Project Status
 
-🟡 Project Selected - Development in Progress
+
+🟡 Project Status - Development in Progress
 
 Future Work
 
